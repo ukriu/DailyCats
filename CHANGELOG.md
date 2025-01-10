@@ -2,7 +2,7 @@
 
 ## Release v1.2
 \- More verbose download script
-\- Change source too `thecatapi.com`
+\- Change source to `thecatapi.com`
 
 ## Release v1.1
 \- Only download images tagged as `cute`
