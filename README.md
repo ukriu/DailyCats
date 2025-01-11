@@ -1,6 +1,6 @@
 # DailyCats
 
-A module to download a cat picture from [cataas.com](https://cataas.com) daily!
+A module to download a cat picture from [thecatapi.com](https://thecatapi.com) daily!
 
 ## Information:
 
