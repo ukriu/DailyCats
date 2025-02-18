@@ -1,6 +1,6 @@
 #!/system/bin/sh
 PATH=/data/adb/ap/bin:/data/adb/ksu/bin:/data/adb/magisk:$PATH
-SAVE_DIR="/storage/emulated/0/Pictures/DailyCat"
+SAVE_DIR="/sdcard/Pictures/DailyCat"
 JSON_PATH="$SAVE_DIR/dailyCat.temp.json"
 CAT_PATH="$SAVE_DIR/dailyCat.jpg"
 JSON_SOURCE="https://api.thecatapi.com/v1/images/search"

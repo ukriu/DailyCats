@@ -1,5 +1,8 @@
 # DailyCats
 
+## Release v1.2 
+\- Fix cronjob
+
 ## Release v1.2
 \- More verbose download script
 \- Change source to `thecatapi.com`
