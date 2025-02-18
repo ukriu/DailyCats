@@ -1,6 +1,6 @@
 # DailyCats
 
-## Release v1.2 
+## Release v1.3 
 \- Fix cronjob
 
 ## Release v1.2
