@@ -4,7 +4,7 @@ A module to download a cat picture from [thecatapi.com](https://thecatapi.com) d
 
 ## Information:
 
-The picture is stored in `/storage/emulated/0/Pictures/DailyCat/` and is replaced upon every reboot, at 00:00 and when running the action script.
+The picture is stored in `/sdcard/Pictures/DailyCat/` and is replaced upon every reboot, at 00:00 and when running the action script.
 
 ## Download
 
